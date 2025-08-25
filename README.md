@@ -25,3 +25,6 @@ This repository demonstrates how to set up, run, and customize PeopleNet for you
 ```bash
 git clone https://github.com/your-username/peoplenet-demo.git
 cd peoplenet-demo
+```
+
+⚠️ Note: This project is currently theoretical. It outlines setup and usage for NVIDIA PeopleNet, but testing on actual Jetson hardware is pending.
