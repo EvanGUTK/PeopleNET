@@ -1,6 +1,6 @@
 # PeopleNet – Real-Time Human Detection with NVIDIA
 
-![PeopleNet Placeholder](path/to/image.png)
+![PeopleNet Placeholder](Media/PNDS.jpeg)
 
 ## 📌 Overview
 **PeopleNet** is an AI model developed by **NVIDIA** for real-time human detection in images and video streams. It is widely used for **smart cities, retail analytics, workplace safety, and autonomous systems**. Unlike general-purpose object detectors, PeopleNet is optimized for detecting **people in diverse environments**, offering **high accuracy and low latency** with support for edge deployment on **Jetson devices** and high-performance inference on **NVIDIA GPUs**.
